@@ -1,5 +1,5 @@
 # escape code for STARTastro demo
-
+# written by Adam Burgasser
 # import statements
 import numpy
 import matplotlib.pyplot as plt
